@@ -1,2 +1,2 @@
-# Rel-gio-Digital-Din-mico
+# Relogio-Digital-Dinamico
 Exercitando base de html, css, js em projeto simples
